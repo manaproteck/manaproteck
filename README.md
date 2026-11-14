@@ -1,6 +1,6 @@
 - hi i am manaswa
-- opwn pw app while i use
-- 
+- doing diploma in computer engineering 
+- learned python
 
 <!---
 manaproteck/manaproteck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
